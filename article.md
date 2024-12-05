@@ -1,6 +1,6 @@
 ---
 title: This is the Test Title
-author: Your Name
+author: Adelina
 bibliography: references.bib
 format: pdf
 ---
@@ -9,7 +9,7 @@ format: pdf
 
 > "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit [@dassonneville2018gender]. Suspendisse faucibus augue id lectus accumsan, vitae gravida erat tincidunt. Curabitur tempus scelerisque orci eget hendrerit. Maecenas consequat cursus mauris a consequat. Donec eleifend ex turpis, a blandit est egestas vel. Maecenas sed orci nec sem feugiat placerat rutrum sit amet diam. Cras orci leo, ullamcorper sed placerat eget, vehicula id elit. Integer interdum lobortis tellus, et suscipit risus faucibus vel. Integer nec tempus velit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit [@dassonneville2018gender]. Suspendisse faucibus augue id lectus accumsan, vitae gravida erat tincidunt. Curabitur tempus scelerisque orci eget hendrerit. Maecenas consequat cursus mauris a consequat. Donec eleifend ex turpis, a blandit est egestas vel. Maecenas sed orci nec sem feugiat placerat rutrum sit amet diam. Cras orci leo, ullamcorper sed placerat eget, vehicula id elit. Integer interdum lobortis tellus, et suscipit risus faucibus vel. Integer nec tempus velit [@habtie2024diaspora].
 
 @brady1995beyond fusce porttitor iaculis urna. Maecenas felis felis, tempus quis ultrices luctus, tristique eu tortor. Etiam in dui dictum, auctor purus non, dapibus magna. Integer eu mollis orci. Fusce eleifend interdum quam, ac laoreet ex suscipit eget. Integer finibus sodales dictum. Phasellus ex elit, imperdiet rutrum molestie sit amet, efficitur a nunc. Fusce quis venenatis neque. Donec arcu mi, porttitor sit amet ultricies nec, egestas quis tellus. Nam non auctor turpis.
 
